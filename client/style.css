@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ff9e9e;
+  text-align: center;
+  margin-top: 50px;
+}
+
+#pokemon-card {
+  background: rgb(255, 255, 255);
+  width: 300px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+}
